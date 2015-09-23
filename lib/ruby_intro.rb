@@ -3,7 +3,7 @@
 # Part 1
 
 def sum arr
-  # YOUR CODE HERE
+  "Hello, " + name
 end
 
 def max_2_sum arr
@@ -17,7 +17,7 @@ end
 # Part 2
 
 def hello(name)
-  # YOUR CODE HERE
+  elements.reduce 0, :+
 end
 
 def starts_with_consonant? s
